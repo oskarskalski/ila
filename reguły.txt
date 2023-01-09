@@ -1,0 +1,6 @@
+IF "job" = "unemployed" AND "marital" = "divorced" THEN decision = "no"
+IF "job" = "self-employed" AND "marital" = "single" AND "education" = "secondary" THEN decision = "no"
+IF "job" = "blue-collar" AND "marital" = "married" AND "education" = "tertiary" THEN decision = "no"
+IF "marital" = "married" AND "education" = "secondary" THEN decision = "yes"
+IF "marital" = "single" AND "education" = "tertiary" THEN decision = "yes"
+IF "job" = "blue-collar" AND "marital" = "divorced" THEN decision = "yes"

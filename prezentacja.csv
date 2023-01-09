@@ -1,0 +1,8 @@
+nr;Rozmiar;Kolor;Kształt;Decyzja;
+1;średni;niebieski;kostka;TAK;
+2;mały;czerwony;klin;NIE;
+3;mały;czerwony;kula;TAK;
+4;duży;czerwony;klin;NIE;
+5;duży;zielony;słup;TAK;
+6;duży;czerwony;słup;NIE;
+7;duży;zielony;kula;TAK;
